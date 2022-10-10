@@ -7,3 +7,7 @@ Blau
 Gelb
 Magenta
 Sind alles tolle Farben.
+
+"Können Sie in JAVA programmieren?"
+"Ja natürlich, wenn Sie die Reisekosten zahlen".
+"Wir melden uns..."
