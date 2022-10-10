@@ -10,3 +10,15 @@ Magenta
 Schwarz
 Sind alles tolle Farben.
 Und passen wunderbar in meinen Garten.
+
+Color palette
+
+Red
+Green
+BrightGreen
+DarkGreen
+Yellow
+Magenta
+Black
+Are all great Colors.
+And fit wonderfully in my Garden
